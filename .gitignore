@@ -1,0 +1,17 @@
+# Working notes, never committed. Matches at any depth.
+NOTES.local.md
+**/NOTES.local.md
+*.local.md
+
+# Draft backups
+*.PRE*.md
+
+# OS and editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
